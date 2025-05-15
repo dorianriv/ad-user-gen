@@ -44,20 +44,20 @@ By the end of this phase, we’ll have a working pool of domain users for future
 - Log in to DC-1 as jane_admin
 - Open PowerSell ISE as an administrator and paste the contents of the <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1"> script </a> and run it
 
-![screenshot 1](https://github.com/user-attachments/assets/26a33215-e783-49cb-92bc-89e4b433c1c9)
+![screenshot 1](https://github.com/user-attachments/assets/697bfdcd-6f2f-4b70-9469-e578e03a3c5e)
 
 - The script will generate several users with a combination of consonants and vowels, so the names might be unusual
 
 - Once the script is done running, you can verify in Active Directory that the users have been created
 
-![screenshot 2](https://github.com/user-attachments/assets/ed48499a-0051-4207-be8b-fdb4ac7fdaef)
+![screenshot 2](https://github.com/user-attachments/assets/1308c8e5-adb5-42d6-bcaa-4881890901e9)
 
 <h3>&#9313; Login as a user</h3>
 
 - Now you can try logging in as one of the users to further verify that the script has worked
 - Take note of the default password in the script (Password1)
 
-![screenshot 3](https://github.com/user-attachments/assets/67704ee6-b881-4f56-ba2f-371a3aedbb8e)
+![screenshot 3](https://github.com/user-attachments/assets/e25df26d-77d7-4fbe-90e5-b8c354c747c0)
 
 <h2>Final Thoughts</h2>
 
